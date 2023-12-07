@@ -14,6 +14,9 @@
 	--color-gray-4: #bbb;
 	--color-gray-5: #9a9a9a;
 	--color-black: #000;
+	--color-forest: #1e4620;
+	--color-light-green: #afe1af;
+	--color-red: #EE4B2B;
 	/* sizes */
 	--size-base: 3px;
 	--size-xxs: var(--size-base); /* 3px */
