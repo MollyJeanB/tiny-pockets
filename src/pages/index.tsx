@@ -19,7 +19,7 @@ export default function Home() {
 					}
 				/>
 				<footer className={styles.footer}>
-					<GitHubLink link={"https://github.com/MollyJeanB/mjb-boilerplate"} />
+					<GitHubLink link={"https://github.com/MollyJeanB/tiny-pockets"} />
 				</footer>
 			</main>
 		</>
